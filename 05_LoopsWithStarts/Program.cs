@@ -11,7 +11,7 @@ namespace _05_LoopsWithStarts
         static void Main(string[] args)
         {
 
-            //deneme
+            //dene
         }
     }
 }
