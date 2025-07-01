@@ -14,7 +14,7 @@ namespace _09_DatabaseProject
         {
 
             //Ado.net
-
+            #region listeleme işlemleri
             string tableNumber;
             Console.WriteLine("***** ürün kategori sistemi *****");
             Console.WriteLine("1-Kategoriler");
@@ -41,7 +41,7 @@ namespace _09_DatabaseProject
                     Console.WriteLine(item.ToString());
                 }
             }
-
+            #endregion
 
             Console.Read();
         }
